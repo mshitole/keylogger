@@ -1,3 +1,6 @@
+# Name: Mahesh Shitole
+# Email: maheshshtl@gmail.com
+
 """ keylogger.py
     This file is basically responsible for keylogging
     it has main 2 components
